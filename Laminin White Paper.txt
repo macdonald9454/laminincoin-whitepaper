@@ -1,0 +1,99 @@
+ Laminin Coin – Project Overview (Whitepaper v1.1)
+
+🔷 Project Name
+
+Laminin Coin (LAM)
+
+🔷 Overview
+
+Laminin Coin (LAM) is an ERC-20 utility token deployed on the Ethereum mainnet, designed to serve as the foundation for a broader ecosystem of Web3 applications and AI-integrated services. It is the official token of SolaceNova Technologies, a development initiative focused on blending symbolic value, real-world utility, and secure digital experiences.
+
+LAM is intended to power various services such as digital gifting, AI-enhanced applications, and a custom NFT platform currently under development known as the Laminin Signature Series.
+
+⸻
+
+🔷 Purpose and Mission
+
+Laminin Coin bridges the worlds of human expression and decentralized utility. It enables users to engage with tokenized experiences such as:
+	•	Digital gifting through themed NFTs (birthdays, holidays, heroes, etc.)
+	•	Secure, AI-enhanced software applications
+	•	Utility-based services in the upcoming Solace OS
+
+Laminin’s mission is to give people meaningful tools that are both symbolic and functional, built on blockchain principles of transparency, decentralization, and security.
+
+⸻
+
+🔷 Use Cases
+	1.	Future NFT Gifting (Laminin Signature Series – in development)
+	•	Users will be able to mint unique NFTs for special occasions like birthdays, anniversaries, or historical heroes.
+	•	Each token will have a value in LAM, and LAM will be used to purchase them.
+	2.	Digital Utility & App Access
+	•	LAM will be used to access features inside Solace OS, an AI-powered, privacy-focused operating system in development.
+	3.	AI Tools (Planned)
+	•	Laminin Coin will unlock real-time usage of encrypted tools, productivity AI apps, and future antivirus technology under the Solace brand.
+	4.	Future Governance (Planned)
+	•	LAM holders will eventually have a say in product direction, funding allocation, and ecosystem proposals.
+
+⸻
+
+🔷 Token Details
+	•	Token Name: Laminin Coin
+	•	Symbol: LAM
+	•	Standard: ERC-20
+	•	Decimals: 18
+	•	Contract Address: 0xC323F3aC0B2c877c5732Fe2ce27C04d168159709
+	•	Network: Ethereum Mainnet
+	•	Status: Live, verified, and liquidity-funded
+
+⸻
+
+🔷 Tokenomics
+	•	Max Supply: 1,000,000,000 LAM
+	•	Initial Liquidity Added: ~$2,000 (Uniswap V3 LAM–ETH)
+	•	Ownership Renounced: ✅ Yes
+	•	Liquidity Locked: [Pending - Future Update]
+	•	Team Tokens: 0 (fully decentralized launch)
+
+⸻
+
+🔷 Roadmap (2025)
+
+✅ Q1–Q2
+	•	Contract development and testing
+	•	Dashboard UI and branding
+	•	Ethereum mainnet deployment
+	•	Twitter, GitHub, and project outreach
+	•	Uniswap liquidity established
+
+🛠️ Q3 (In Progress)
+	•	Laminin Signature Series NFT system (MVP phase)
+	•	Buy button logic for LAM payments
+	•	UI updates and NFT image integration
+	•	Begin CoinGecko and CoinMarketCap listing process
+
+🚀 Q4 (Upcoming)
+	•	Launch Solace OS beta (AI tools + security apps)
+	•	Introduce full NFT sale functionality
+	•	Begin marketing push and user onboarding
+	•	Explore L2 deployment or additional token pairings
+
+⸻
+
+🔷 Team
+	•	Founder: Macdonald G. Jose Jr. (Mac)
+	•	Entity: SolaceNova Technologies (private dev phase)
+
+⸻
+
+🔷 Social + Key Links
+	•	Website: https://laminin-dashboard-ui.vercel.app
+	•	Uniswap Pair: https://https://app.uniswap.org/positions/v4/ethereum/40323
+	•	Twitter: https://twitter.com/LamininToken
+	•	Explorer: https://etherscan.io/token/0x99190e05f4b9A78cEd342E74d0d60534b493A141
+	•	GitHub: https://github.com/macdonald9454/laminincoin-whitepaper.git
+
+⸻
+
+🔷 Disclaimer
+
+Laminin Coin is currently a utility token under development. While the core contract is live and tradable, the Laminin Signature Series and its broader utilities are still being built and tested. All timelines and features are subject to development changes. LAM is not intended as a security or investment, but as a fuel for real-world, tokenized utility. Please do your own research (DYOR).
