@@ -41,10 +41,10 @@ Laminin’s mission is to give people meaningful tools that are both symbolic an
 	•	Symbol: LAM
 	•	Standard: ERC-20
 	•	Decimals: 18
-	•	Contract Address: 0xC323F3aC0B2c877c5732Fe2ce27C04d168159709
+	•	Contract Address: 0xe005b989876D007c21eBf05F7a87A46FB9BbCB81
 	•	Network: Ethereum Mainnet
 	•	Status: Live, verified, and liquidity-funded
-
+“The Laminin Token smart contract is deployed at 0xe005b989876D007c21eBf05F7a87A46FB9BbCB81 on Ethereum mainnet. The deployer and admin wallet is 0x99190e05f4b9A78cEd342E74d0d60534b493A141 (MetaMask-controlled).”
 ⸻
 
 🔷 Tokenomics
